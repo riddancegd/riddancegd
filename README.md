@@ -19,6 +19,6 @@ Feel free to use my code as you see fit :D
 <p align="center">
 <a href="https://github.com/riddancegd">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riddancegd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riddancegd&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riddancegd&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
