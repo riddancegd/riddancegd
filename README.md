@@ -1,4 +1,4 @@
-# Bienvenue mon ami! c:
+# Bienvenue mon ami! 🙋‍♂️
 <img src="https://github.com/riddancegd/portfolio/blob/master/assets/banner.jpg">
 
 <a href="https://www.linkedin.com/in/cmunozbustamante/">
