@@ -1,5 +1,4 @@
-# Jhibram Farid
-
+# Welcome! :)
 <img src="https://github.com/riddancegd/portfolio/blob/master/assets/banner.jpg">
 
 <a href="https://www.linkedin.com/in/cmunozbustamante/">
